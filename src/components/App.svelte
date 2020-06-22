@@ -1,1 +1,5 @@
-<h1>Svelte script context module!</h1>
+<script>
+  import PostsList from './PostsList.svelte'
+</script>
+
+<PostsList />
