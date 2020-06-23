@@ -6,8 +6,6 @@
 </script>
 
 <script>
-  import { onMount } from 'svelte'
-  
   export let title = ''
 
   total += 1
