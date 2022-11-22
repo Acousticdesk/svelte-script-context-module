@@ -7,7 +7,7 @@
   "devDependencies": {
     "svelte": "^3.23.2",
     "svelte-loader": "^2.13.6",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack": "^4.43.0"
   },
   "scripts": {
